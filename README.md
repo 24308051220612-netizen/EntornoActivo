@@ -20,7 +20,6 @@ Reconstrucción editable basada en el PDF `EntornoActivo_codigo_y_estructura.pdf
 - `/privacidad` Aviso de privacidad
 - Cualquier ruta desconocida muestra la página 404
 
-El menú hamburguesa reúne el inicio, servicios, actividades, perfil y páginas informativas y legales. El acceso de Login es una demostración: el formulario navega al Dashboard y no autentica usuarios. Los datos del prototipo se guardan localmente en el navegador; no hay backend ni seguridad de servidor. Los avisos legales se presentan como borradores para el prototipo y deben revisarse con la institución antes de usarse para datos o eventos reales.
 
 La dirección `127.0.0.1` solo abre la aplicación en el equipo que ejecuta Vite. Para compartirla por internet se necesitaría preparar un despliegue en otra etapa.
 
