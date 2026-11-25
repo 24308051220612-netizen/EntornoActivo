@@ -1,0 +1,6 @@
+:root { font-family: Arial, Helvetica, sans-serif; color: #243047; background: #f4f7fb; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button, input, select, textarea { font: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 3px solid #77a9e1; outline-offset: 2px; }
+#root { min-height: 100vh; }
